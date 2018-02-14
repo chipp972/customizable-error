@@ -1,6 +1,6 @@
 {
   "name": "customizable-error",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Customizable error to pass extra fields in your errors",
   "engineStrict": true,
   "engines": {
